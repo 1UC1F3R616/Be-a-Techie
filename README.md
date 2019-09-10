@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/D-E-F-E-A-T/Be-a-Techie.svg)](http://hits.dwyl.io/D-E-F-E-A-T/Be-a-Techie)
+
 # Be-a-Techie
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)![#1589F0](https://placehold.it/15/1589F0/000000?text=+)![#1589F0](https://placehold.it/15/1589F0/000000?text=+)![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 Accessing Tech news made easy for you, Hack news Startup news Gadget news. It have them all! *GUI*
